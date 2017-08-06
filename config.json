@@ -1,12 +1,12 @@
 {
-  "ownerID": "282179663286108170",
-  "token": "MzQzMzgyNTA5NDEwNzEzNjEw.DGiVQw.R5gfzZewJ63n1fOhkZPYsZ-X1M0",
+  "ownerID": "put ownerID",
+  "token": "put ur bot token",
   "defaultSettings" : {
     "prefix": "%",
     "modLogChannel": "mod-log",
     "modRole": "Moderators",
     "adminRole": "Administrators",
-    "welcomeMessage": "Welcome to Knut Land, {{user}}! We all need a warm welcome sometimes! (don't worry its not the real me)",
+    "welcomeMessage": "Welcome, {{user}}! We all need a warm welcome sometimes!",
     "welcomeEnabled": "false"
   }
 }
